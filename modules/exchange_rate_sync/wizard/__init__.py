@@ -1,0 +1,1 @@
+from . import wizard_exchange_rate_sync
